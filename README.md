@@ -3,7 +3,7 @@
 - This project applies supervised machine learning algorithms to predict diabetes based on clinical and lifestyle attributes.
 - Five models—Logistic Regression, Decision Tree, KNN, SVC, and XGBoost—were trained and compared to evaluate their effectiveness in early diabetes detection.
 # 📊 Dataset
-- Source: Kaggle – Diabetes Classification Dataset
+- Source: Kaggle – https://www.kaggle.com/datasets/sujithmandala/easiest-diabetes-classification-dataset/data
 - Records: 128
 - Features: Age, Gender, BMI, Blood Pressure, Fasting Blood Sugar, HbA1c, Family History, Smoking, Diet, Exercise, Diagnosis
 # ⚙️ Methodology
